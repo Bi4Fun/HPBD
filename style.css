@@ -1,0 +1,12 @@
+* {
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}
+
+.just-a{
+    justify-content: center;
+    text-align: center;
+    display: inline-block;
+    margin-left: 700px;
+    padding-top: 50px;
+}
